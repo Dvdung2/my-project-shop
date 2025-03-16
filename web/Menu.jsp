@@ -10,7 +10,7 @@
         <div class="collapse navbar-collapse justify-content-end" id="navbarsExampleDefault">
             <ul class="navbar-nav m-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Manager Account</a>
+                    <a class="nav-link" href="CustomerURL?service=AllCustomer">Manager Account</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="ProductURL?service=ManageProduct">Manager Product</a>
@@ -19,7 +19,7 @@
                     <a class="nav-link" href="#">Hello Alias</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Logout</a>
+                    <a class="nav-link" href="CustomerURL?service=logoutCustomer">Logout</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="CustomerURL?service=loginCustomer">Login</a>
